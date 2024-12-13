@@ -93,16 +93,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Najahi-Dev&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najahi-Dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-  
-
 <br/>  
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<br/>  
+<br/>
 
+
+## 👁️ Views
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Najahi-Dev&&style=flat-square" align="center" />
 </div>  
