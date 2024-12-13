@@ -89,27 +89,21 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najahi-Dev&hide_border=true&layout=compact" align="center" /></div>  
+![](https://github-readme-stats.vercel.app/api?username=Najahi-Dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Najahi-Dev&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Najahi-Dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Najahi-Dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
   
+
+<br/>  
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Najahi-Dev&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/Najahi-Dev" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
