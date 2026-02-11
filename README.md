@@ -3,20 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ahmadh Najahi, I am a Software Engineering Student at ESoft Metro Campus.</div>  
-  
-
-- ***🔭 I’m currently working on [Own Projects](https://github.com/Najahi-Dev)***  
-  
-
-- 🌱 I’m currently learning AI and ML  
-  
-
-- ❓ Ask me about anything related to Full stack and related technologies  
-  
-
-- ⚡ Fun fact: Friends call me 'JK'  
-  
+### <div align="center">I'm Ahmadh Najahi, I am a Computer Science Student at Kingston University (London).</div>    
 
 <br/>  
 
