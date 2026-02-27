@@ -100,17 +100,11 @@
 
 <div align="center">
 
-<a href="https://ahmadh-najahi-personal-portfolio.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Najahi-Dev&repo=Najahi-Dev.github.io&theme=tokyonight&hide_border=true&border_radius=10" alt="Portfolio"/>
-</a>
+[![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Najahi-Dev&repo=Najahi-Dev.github.io&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)](https://ahmadh-najahi-personal-portfolio.vercel.app/)
 &nbsp;
-<a href="https://github.com/Najahi-Dev/DreamBook_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Najahi-Dev&repo=DreamBook_System&theme=tokyonight&hide_border=true&border_radius=10" alt="DreamBook"/>
-</a>
+[![DreamBook](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Najahi-Dev&repo=DreamBook_System&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)](https://github.com/Najahi-Dev/DreamBook_System)
 &nbsp;
-<a href="https://github.com/Najahi-Dev/Doctor_Channeling_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Najahi-Dev&repo=Doctor_Channeling_System&theme=tokyonight&hide_border=true&border_radius=10" alt="Doctor Channeling"/>
-</a>
+[![Doctor Channeling](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Najahi-Dev&repo=Doctor_Channeling_System&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)](https://github.com/Najahi-Dev/Doctor_Channeling_System)
 
 </div>
 
@@ -126,15 +120,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Najahi-Dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://streak-stats.demolab.com/?user=Najahi-Dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Najahi-Dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&cache_seconds=86400)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Najahi-Dev&theme=tokyonight&hide_border=true&border_radius=10)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najahi-Dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages"/>
-&nbsp;
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Najahi-Dev&theme=tokyo-night&hide_border=true&radius=10" alt="Activity Graph"/>
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Najahi-Dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=86400)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Najahi-Dev&theme=tokyo-night&hide_border=true&radius=10)
 
 </div>
 
@@ -144,7 +136,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Najahi-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Najahi-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
