@@ -128,7 +128,7 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Najahi-Dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Najahi-Dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=Najahi-Dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 <br/>
 
