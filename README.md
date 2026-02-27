@@ -130,7 +130,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total%20Repos-10+-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=70a5fd" alt="Repos"/>
+<img src="https://img.shields.io/badge/Total%20Repos-30+-1a1b27?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=70a5fd" alt="Repos"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Total%20Commits-100+-1a1b27?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27&color=bf91f3" alt="Commits"/>
 &nbsp;
