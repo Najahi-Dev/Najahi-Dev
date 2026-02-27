@@ -28,7 +28,7 @@
 - 🎓 **BSc (Hons) Computer Science** (Software Engineering) - Kingston University, UK
 - 💼 Software Engineer (Fresher) passionate about building real-world solutions
 - 🔭 Currently working on **Full-Stack Web Applications**
-- 🌱 Exploring **Cloud Computing & DevOps**
+- 🌱 Exploring **Cloud Computing & AI Automations**
 - 💡 Focused on **Clean Code, APIs & Data-Driven Insights**
 - ⚡ Fun fact: I turn ☕ into **code**
 
@@ -99,12 +99,6 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-
-[![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Najahi-Dev&repo=Najahi-Dev.github.io&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)](https://ahmadh-najahi-personal-portfolio.vercel.app/)
-&nbsp;
-[![DreamBook](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Najahi-Dev&repo=DreamBook_System&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)](https://github.com/Najahi-Dev/DreamBook_System)
-&nbsp;
-[![Doctor Channeling](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Najahi-Dev&repo=Doctor_Channeling_System&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400)](https://github.com/Najahi-Dev/Doctor_Channeling_System)
 
 </div>
 
