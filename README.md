@@ -126,8 +126,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
 ## 🏆 Achievements
 
 <div align="center">
