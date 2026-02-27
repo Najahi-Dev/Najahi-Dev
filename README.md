@@ -130,7 +130,17 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Najahi-Dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
+<!-- IMPORTANT: Replace YOUR_VERCEL_URL below after deploying your own trophy instance.
+     Steps: 1) Go to https://github.com/ryo-ma/github-profile-trophy
+            2) Click "Deploy to Vercel" button
+            3) Sign in & deploy (free)
+            4) Replace YOUR_VERCEL_URL with your deployed URL (e.g., github-profile-trophy-najahi.vercel.app) -->
+
+[![trophy](https://YOUR_VERCEL_URL/?username=Najahi-Dev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Temporary fallback: GitHub Stats Achievements (works without any setup) -->
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Najahi-Dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged&cache_seconds=86400)
 
 </div>
 
